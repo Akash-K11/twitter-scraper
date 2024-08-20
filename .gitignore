@@ -1,0 +1,11 @@
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Folders
+.vscode/
+.idea/
+data/
+
+# CSV files
+*.csv
